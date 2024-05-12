@@ -12,7 +12,8 @@ Projects:
 
 🎭  [ [Umbrella](https://github.com/InfectedClown/Umbrella ) ] - A virus maker is a type of software that is used to create malicious software (viruses, worms, trojans, etc.) with the aim of infecting computer systems and causing damage or disruption.
 
-Contributions:
+🔮  [ [0xCrack](https://github.com/InfectedClown/0xCrack ) ] - A PDF cracker tool is a software program designed to remove passwords and restrictions from PDF files, allowing users to access and modify the contents of the document.
+
 
     🐛 Reported and fixed bugs in several open source projects
     📝 Contributed documentation and code updates to various repositories
