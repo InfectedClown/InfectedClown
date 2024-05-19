@@ -1,19 +1,20 @@
 ![alt text](https://github.com/InfectedClown/InfectedClown/blob/main/clown.gif)
 
-🤡 Full Stack Developer by day, clown enthusiast by night 🎪 | Lover of all things tech and code 💻 | Always looking for new projects to collaborate on 🚀
+🤡 Full Stack Developer by night 🎪 | Lover of all things tech and code 💻 | Always looking for new projects to collaborate on 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,vscode,html,css,js,git,bash,linux,vim&theme=light)](https://skillicons.dev)
 
 Projects:
 
-🎈  [ [Shuriken](https://github.com/InfectedClown/Shuriken ) ] - A payload generation tool allows users to create customized payloads for various purposes, such as exploiting vulnerabilities, conducting penetration testing, or performing red team engagements. These payloads can be used to deliver malicious code or perform specific actions on a target system.
+🎈  [ [Shuriken](https://github.com/InfectedClown/Shuriken ) ] - Shuriken is a powerful payload generation tool designed for creating customized payloads to exploit vulnerabilities, conduct penetration testing, or engage in red team operations. These payloads are versatile and can be utilized to deliver malicious code or execute specific actions on target systems.
 
-🤹‍♂️  [ [Plague](https://github.com/InfectedClown/Plague) ] - A java source code obfuscator tool that helps protect your code from reverse engineering and tampering by making it more difficult to understand and modify. By obfuscating your code, you can greatly reduce the risk of unauthorized access to your intellectual property.
+🤹‍♂️  [ [Plague](https://github.com/InfectedClown/Plague) ] - Plague is a Java source code obfuscator tool aimed at safeguarding your code from reverse engineering and tampering attempts. By obfuscating your code, it becomes more challenging for unauthorized individuals to understand and modify it, thereby enhancing the security of your intellectual property.
 
-🎭  [ [Umbrella](https://github.com/InfectedClown/Umbrella ) ] - A virus maker is a type of software that is used to create malicious software (viruses, worms, trojans, etc.) with the aim of infecting computer systems and causing damage or disruption.
+🎭  [ [Umbrella](https://github.com/InfectedClown/Umbrella ) ] - Umbrella is a sophisticated virus maker tool utilized for creating malicious software, including viruses, worms, trojans, and more. Its primary purpose is to infect computer systems and cause damage or disruption, making it a potent tool in the realm of cybersecurity.
 
-🔮  [ [0xCrack](https://github.com/InfectedClown/0xCrack ) ] - A PDF cracker tool is a software program designed to remove passwords and restrictions from PDF files, allowing users to access and modify the contents of the document.
+🔮  [ [0xCrack](https://github.com/InfectedClown/0xCrack ) ] - 0xCrack is a PDF cracker tool specifically designed to remove passwords and restrictions from PDF files. By bypassing these security measures, users can gain access to and manipulate the contents of PDF documents, providing a convenient solution for accessing encrypted files.
 
+🎃  [ [Panic Mode](https://github.com/InfectedClown/Panic-Mode ) ] - Panic Mode is an exhilarating tool designed to create automated jump scare experiences. 
 
     🐛 Reported and fixed bugs in several open source projects
     📝 Contributed documentation and code updates to various repositories
