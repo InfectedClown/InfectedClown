@@ -2,7 +2,7 @@
 
 🤡 Full Stack Developer by night 🎪 | Lover of all things tech and code 💻 | Always looking for new projects to collaborate on 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,vscode,html,css,js,git,bash,linux,vim&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,perl,vscode,html,css,js,git,bash,linux,vim&theme=light)](https://skillicons.dev)
 
 Projects:
 
